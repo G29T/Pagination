@@ -1,0 +1,8 @@
+.user-container {
+    min-width: 410px;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px; 
+    padding: 10px; 
+    background-color: #f9f9f9; 
+}
